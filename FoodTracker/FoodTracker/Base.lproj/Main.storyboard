@@ -40,7 +40,7 @@
                                                     </textField>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="s26-2j-POg">
                                                         <rect key="frame" x="0.0" y="74" width="151" height="30"/>
-                                                        <state key="normal" title="Set Defualt Label Text"/>
+                                                        <state key="normal" title="Set Default Label Text"/>
                                                     </button>
                                                 </subviews>
                                                 <constraints>
