@@ -2,7 +2,7 @@
 //  FoodTrackerTests.swift
 //  FoodTrackerTests
 //
-//  Created by Ali Hyder on 1/4/16.
+//  Created by Jane Appleseed on 5/23/15.
 //  Copyright © 2015 Apple Inc. All rights reserved.
 //
 
