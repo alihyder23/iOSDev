@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  FoodTracker
 //
-//  Created by ALi Hyder on 1/1/16.
+//  Created by Jane Appleseed on 5/23/15.
 //  Copyright © 2015 Apple Inc. All rights reserved.
 //  See LICENSE.txt for this sample’s licensing information.
 //
@@ -10,8 +10,8 @@
 import UIKit
 
 class ViewController: UIViewController, UITextFieldDelegate {
-    
     // MARK: Properties
+    
     @IBOutlet weak var nameTextField: UITextField!
     @IBOutlet weak var mealNameLabel: UILabel!
 
@@ -23,10 +23,10 @@ class ViewController: UIViewController, UITextFieldDelegate {
     }
     
     // MARK: UITextFieldDelegate
+    
     func textFieldShouldReturn(textField: UITextField) -> Bool {
         // Hide the keyboard.
         textField.resignFirstResponder()
-        
         return true
     }
     
@@ -36,7 +36,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
     
     // MARK: Actions
     @IBAction func setDefaultLabelText(sender: UIButton) {
-        mealNameLabel.text = "DefaultText"
+        mealNameLabel.text = "Default Text"
     }
 
 }
