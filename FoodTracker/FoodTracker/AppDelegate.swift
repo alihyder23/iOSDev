@@ -2,8 +2,9 @@
 //  AppDelegate.swift
 //  FoodTracker
 //
-//  Created by Ali Hyder on 1/1/16.
-//  Copyright © 2016 Ali Hyder. All rights reserved.
+//  reated by ALi Hyder on 1/1/16.
+//  Copyright © 2015 Apple Inc. All rights reserved.
+//  See LICENSE.txt for this sample’s licensing information.
 //
 
 import UIKit

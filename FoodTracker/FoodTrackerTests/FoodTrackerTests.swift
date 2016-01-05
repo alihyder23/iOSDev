@@ -2,12 +2,11 @@
 //  FoodTrackerTests.swift
 //  FoodTrackerTests
 //
-//  Created by Ali Hyder on 1/1/16.
-//  Copyright © 2016 Ali Hyder. All rights reserved.
+//  reated by ALi Hyder on 1/1/16.
+//  Copyright © 2015 Apple Inc. All rights reserved.
 //
 
 import XCTest
-@testable import FoodTracker
 
 class FoodTrackerTests: XCTestCase {
     
@@ -28,7 +27,7 @@ class FoodTrackerTests: XCTestCase {
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
-        self.measureBlock {
+        self.measureBlock() {
             // Put the code you want to measure the time of here.
         }
     }
